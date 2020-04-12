@@ -1,0 +1,20 @@
+Advanced DataStructures Coding Assignment
+Coding Language: Java
+
+
+PersonRelationship:
+  Figure out relationship of each member in the family using recursion(count cousins,sisters etc)
+  Methods: recursion
+  
+ Birthday Problem:
+    Figure probability of Birthday Problem using HashTable and HashMap (https://en.wikipedia.org/wiki/Birthday_problem)
+    DataStructure: HashTable, HashMap
+ 
+ Treap:
+    Using mixture of Tree and Heap Structure to sort out the data. (Call Sink methos when remove from the top)
+    Data Structure: Tree, Heap, Treap
+
+Family Problem:
+    Find the degrees of connections of each family using vertax and map structure
+    Data Structure: maps, vertex
+  
